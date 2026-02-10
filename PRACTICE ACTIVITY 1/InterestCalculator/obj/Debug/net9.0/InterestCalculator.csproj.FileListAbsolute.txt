@@ -1,0 +1,14 @@
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/bin/Debug/net9.0/InterestCalculator
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/bin/Debug/net9.0/InterestCalculator.deps.json
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/bin/Debug/net9.0/InterestCalculator.runtimeconfig.json
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/bin/Debug/net9.0/InterestCalculator.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/bin/Debug/net9.0/InterestCalculator.pdb
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.AssemblyInfoInputs.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.AssemblyInfo.cs
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.csproj.CoreCompileInputs.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/refint/InterestCalculator.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.pdb
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/InterestCalculator.genruntimeconfig.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/InterestCalculator/obj/Debug/net9.0/ref/InterestCalculator.dll

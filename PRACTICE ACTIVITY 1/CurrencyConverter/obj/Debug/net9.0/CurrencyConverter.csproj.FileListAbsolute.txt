@@ -1,0 +1,14 @@
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/bin/Debug/net9.0/CurrencyConverter
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/bin/Debug/net9.0/CurrencyConverter.deps.json
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/bin/Debug/net9.0/CurrencyConverter.runtimeconfig.json
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/bin/Debug/net9.0/CurrencyConverter.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/bin/Debug/net9.0/CurrencyConverter.pdb
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.AssemblyInfoInputs.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.AssemblyInfo.cs
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.csproj.CoreCompileInputs.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/refint/CurrencyConverter.dll
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.pdb
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/CurrencyConverter.genruntimeconfig.cache
+/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./PRACTICE ACTIVITY 1/CurrencyConverter/obj/Debug/net9.0/ref/CurrencyConverter.dll
