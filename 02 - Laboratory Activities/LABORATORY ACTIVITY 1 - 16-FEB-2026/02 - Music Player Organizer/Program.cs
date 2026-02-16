@@ -14,10 +14,13 @@
         Console.WriteLine($"Song #{i+1}:");
         Console.Write("Title: ");
         string title = Console.ReadLine();
+        title = string.IsNullOrEmpty(title) ? "Unknown" : title;
         Console.Write("Artist: ");
         string artist = Console.ReadLine();
+        artist = string.IsNullOrEmpty(artist) ? "Unknown" : artist;
         Console.Write("Duration (in minutes): ");
-        double duration = double.Parse(Console.ReadLine());
+        string durationInput = Console.ReadLine();
+        double duration = string.IsNullOrEmpty(durationInput) ? 0.0 : double.Parse(durationInput);
 
         totalDuration += duration;
 
@@ -36,7 +39,7 @@
     }
 
     Console.WriteLine();
-    Console.WriteLine($"Total Duration: {totalDuration} mins");
+    Console.WriteLine($"Total Duration: {totalDuration:F2} mins");
     Console.WriteLine($"Average Duration: {averageDuration:F2} mins");
 }
 

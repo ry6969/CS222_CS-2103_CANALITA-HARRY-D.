@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/MusicPlaylistOrganizer/MusicPlaylistOrganizer.csproj": {}
+    "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/02 - Music Player Organizer/MusicPlaylistOrganizer.csproj": {}
   },
   "projects": {
-    "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/MusicPlaylistOrganizer/MusicPlaylistOrganizer.csproj": {
+    "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/02 - Music Player Organizer/MusicPlaylistOrganizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/MusicPlaylistOrganizer/MusicPlaylistOrganizer.csproj",
+        "projectUniqueName": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/02 - Music Player Organizer/MusicPlaylistOrganizer.csproj",
         "projectName": "MusicPlaylistOrganizer",
-        "projectPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/MusicPlaylistOrganizer/MusicPlaylistOrganizer.csproj",
+        "projectPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/02 - Music Player Organizer/MusicPlaylistOrganizer.csproj",
         "packagesPath": "/home/ry/.nuget/packages/",
-        "outputPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/MusicPlaylistOrganizer/obj/",
+        "outputPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/02 - Music Player Organizer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ry/.nuget/NuGet/NuGet.Config"

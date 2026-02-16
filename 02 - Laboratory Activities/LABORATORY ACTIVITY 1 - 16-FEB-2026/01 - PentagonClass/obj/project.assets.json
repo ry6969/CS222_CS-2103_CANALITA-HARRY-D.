@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/PentagonClass/PentagonClass.csproj",
+      "projectUniqueName": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/01 - PentagonClass/PentagonClass.csproj",
       "projectName": "PentagonClass",
-      "projectPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/PentagonClass/PentagonClass.csproj",
+      "projectPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/01 - PentagonClass/PentagonClass.csproj",
       "packagesPath": "/home/ry/.nuget/packages/",
-      "outputPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1/PentagonClass/obj/",
+      "outputPath": "/home/ry/Documents/School Projects - Activities/Advanced Object-Oriented Programming/CS222_CS-2103_CANALITA-HARRY-D./02 - Laboratory Activities/LABORATORY ACTIVITY 1 - 16-FEB-2026/01 - PentagonClass/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ry/.nuget/NuGet/NuGet.Config"
