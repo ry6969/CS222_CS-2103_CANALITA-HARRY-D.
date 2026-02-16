@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "C#: CurrencyConverter",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/CurrencyConverter/CurrencyConverter.csproj",
+            "launchConfigurationId": "TargetFramework=;CurrencyConverter"
+        },
+        {
+            "name": "C#: Trial Activity",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Trial Activity/Trial Activity.csproj",
+            "launchConfigurationId": "TargetFramework=;Trial Activity"
+        },
+        {
+            "name": "C#: InterestCalculator",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/InterestCalculator/InterestCalculator.csproj",
+            "launchConfigurationId": "TargetFramework=;InterestCalculator"
+        }
+    ]
+}
